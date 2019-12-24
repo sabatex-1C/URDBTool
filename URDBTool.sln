@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URDBTool", "URDBTool\URDBTool.csproj", "{B2F861E8-9EC1-458A-9FA5-F9F6A153DB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTICS_LIB", "NTICS\NTICS_LIB.csproj", "{B69F039F-E37D-4C91-B50D-8A93D1062D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F861E8-9EC1-458A-9FA5-F9F6A153DB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F861E8-9EC1-458A-9FA5-F9F6A153DB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F861E8-9EC1-458A-9FA5-F9F6A153DB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F861E8-9EC1-458A-9FA5-F9F6A153DB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B69F039F-E37D-4C91-B50D-8A93D1062D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69F039F-E37D-4C91-B50D-8A93D1062D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69F039F-E37D-4C91-B50D-8A93D1062D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69F039F-E37D-4C91-B50D-8A93D1062D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90B8749-CC27-4983-AE77-D99E43D6ADC2}
+	EndGlobalSection
+EndGlobal

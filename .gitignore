@@ -2,4 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/NTICS/.svn
+/.vs
+/URDBTool/bin
+/URDBTool/obj
+/NTICS/bin
+/NTICS/obj
+/Backup/URDBTool/obj
+
